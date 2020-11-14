@@ -1,0 +1,65 @@
+.baller-container {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: 0 auto;
+  background-color: black;
+  margin-bottom: 40px;
+  overflow: hidden;
+  transition: 0.5s linear;
+}
+
+.name {
+  font-family: "Amatic SC", cursive;
+  font-size: 35px;
+  color: gold;
+  text-decoration: underline;
+  transition: 3s linear;
+}
+
+.age {
+  font-family: "Amatic SC", cursive;
+  font-size: 25px;
+  color: aliceblue;
+  transition: 2s linear;
+}
+
+.club {
+  font-family: "Amatic SC", cursive;
+  font-size: 20px;
+  width: 20rem;
+  overflow: hidden;
+  color: aliceblue;
+  transition: 0.5s linear;
+}
+
+.img {
+  width: 30em;
+  height: 50%;
+}
+
+.info-content {
+  position: absolute;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to left,
+    rgba(0, 0, 0, 0.5),
+    rgba(5, 5, 5, 0.5)
+  );
+  width: 30em;
+  height: 46%;
+  opacity: 0;
+  transition: 0.5s linear;
+  overflow-x: hidden;
+}
+
+.info-content:hover {
+  opacity: 1;
+  text-decoration: underline;
+  text-decoration-color: gold;
+}
