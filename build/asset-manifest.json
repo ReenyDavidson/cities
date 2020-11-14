@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffdf5fc4.chunk.css",
+    "main.js": "/static/js/main.41531e18.chunk.js",
+    "main.js.map": "/static/js/main.41531e18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.488e3954.js",
+    "runtime-main.js.map": "/static/js/runtime-main.488e3954.js.map",
+    "static/js/2.f65e0215.chunk.js": "/static/js/2.f65e0215.chunk.js",
+    "static/js/2.f65e0215.chunk.js.map": "/static/js/2.f65e0215.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.12a8e11d3d8d73abbbc9473a3c971566.js": "/precache-manifest.12a8e11d3d8d73abbbc9473a3c971566.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ffdf5fc4.chunk.css.map": "/static/css/main.ffdf5fc4.chunk.css.map",
+    "static/js/2.f65e0215.chunk.js.LICENSE.txt": "/static/js/2.f65e0215.chunk.js.LICENSE.txt",
+    "static/media/amsterdam.jpg": "/static/media/amsterdam.1119dae3.jpg",
+    "static/media/berlin.jpg": "/static/media/berlin.72f2a392.jpg",
+    "static/media/dubai.jpg": "/static/media/dubai.ae837023.jpg",
+    "static/media/london.jpg": "/static/media/london.882e9623.jpg",
+    "static/media/los angeles.jpg": "/static/media/los angeles.66a9a13c.jpg",
+    "static/media/maldives.jpg": "/static/media/maldives.a4347d0b.jpg",
+    "static/media/new york.jpg": "/static/media/new york.06b9900b.jpg",
+    "static/media/paris.jpg": "/static/media/paris.fc3097d6.jpg",
+    "static/media/rome.jpg": "/static/media/rome.6e6c0703.jpg",
+    "static/media/singapore.jpg": "/static/media/singapore.81e4b3fc.jpg",
+    "static/media/tokyo.jpg": "/static/media/tokyo.368902c9.jpg",
+    "static/media/vatican.jpg": "/static/media/vatican.cd59480a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488e3954.js",
+    "static/js/2.f65e0215.chunk.js",
+    "static/css/main.ffdf5fc4.chunk.css",
+    "static/js/main.41531e18.chunk.js"
+  ]
+}
